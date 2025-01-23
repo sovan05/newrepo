@@ -1,1 +1,2 @@
 This is the second file. Modified by author 2.
+This file is editable and the text also.
