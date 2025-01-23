@@ -1,1 +1,1 @@
-This is the second file.
+This is the second file. Modified by author 2.
